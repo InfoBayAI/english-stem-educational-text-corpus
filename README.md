@@ -1,20 +1,5 @@
 # english-stem-educational-text-corpus
----
-license: cc-by-4.0
-language:
-- en
-tags:
-- STEM
-- Ceramics
-- English
-- Textbook
-- Raw
-- Tuned
-- Dataset
-- Advanced
-size_categories:
-- 1M<n<10M
----
+
 **Dataset Description:**
 
 This dataset is a **large-scale collection of English STEM Textbook data**, designed to support the development of advanced NLP systems and AI models for educational understanding, scientific reasoning, and concept learning in English.
